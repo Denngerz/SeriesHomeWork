@@ -1,0 +1,6 @@
+﻿  SeriesClass.cpp
+C:\Users\denngerz\source\repos\SeriesTasks\SeriesTasks\SeriesClass.cpp(23,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\denngerz\source\repos\SeriesTasks\SeriesTasks\SeriesClass.cpp(24,10): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  SeriesTasks.cpp
+  Generating Code...
+  SeriesTasks.vcxproj -> C:\Users\denngerz\source\repos\SeriesTasks\x64\Debug\SeriesTasks.exe
